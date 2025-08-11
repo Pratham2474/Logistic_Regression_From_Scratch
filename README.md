@@ -34,12 +34,7 @@ The Titanic dataset is a classic binary classification problem where the goal is
 
 🧠 Models Used
 - Logistic Regression
-- Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-- Gradient Boosting (optional)
-Each model is evaluated using cross-validation and compared using metrics like accuracy, F1-score, and ROC-AUC.
+Model is evaluated using cross-validation and compared using metrics like accuracy, F1-score, and ROC-AUC.
 
 📊 Project Workflow
 - Exploratory Data Analysis (EDA)
